@@ -1,9 +1,9 @@
 {
-    "name": "sample"
+    "name": "sample",
     "error_1": "abc",
-    "error_2"
-    "pql"
+    "error_2": "pql",
     "error_3": {
-        "ad"
-    }
+        "ad": 1
+    },
+    "another_one": {}
 }
